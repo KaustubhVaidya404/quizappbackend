@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "correct_option_id": 3
+    },
+    {
+        "id": 2,
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "correct_option_id": 6
+    },
+    {
+        "id": 3,
+        "question": "What is the largest planet in our solar system?",
+        "correct_option_id": 10
+    },
+    {
+        "id": 4,
+        "question": "Which element has the chemical symbol 'O'?",
+        "correct_option_id": 14
+    },
+    {
+        "id": 5,
+        "question": "What is the smallest prime number?",
+        "correct_option_id": 19
+    },
+    {
+        "id": 6,
+        "question": "Who painted the Mona Lisa?",
+        "correct_option_id": 23
+    },
+    {
+        "id": 7,
+        "question": "What is the capital city of Japan?",
+        "correct_option_id": 30
+    },
+    {
+        "id": 8,
+        "question": "Which planet is known as the Red Planet?",
+        "correct_option_id": 34
+    },
+    {
+        "id": 9,
+        "question": "What is the largest mammal in the world?",
+        "correct_option_id": 38
+    },
+    {
+        "id": 10,
+        "question": "In which year did the Titanic sink?",
+        "correct_option_id": 42
+    },
+    {
+        "id": 11,
+        "question": "What is the main ingredient in guacamole?",
+        "correct_option_id": 46
+    },
+    {
+        "id": 12,
+        "question": "Who discovered penicillin?",
+        "correct_option_id": 50
+    },
+    {
+        "id": 13,
+        "question": "What is the currency of the United Kingdom?",
+        "correct_option_id": 54
+    },
+    {
+        "id": 14,
+        "question": "Which continent is the Sahara Desert located in?",
+        "correct_option_id": 58
+    },
+    {
+        "id": 15,
+        "question": "Who is known as the Father of Computers?",
+        "correct_option_id": 62
+    },
+    {
+        "id": 16,
+        "question": "What is the chemical formula for water?",
+        "correct_option_id": 66
+    },
+    {
+        "id": 17,
+        "question": "What is the hardest natural substance on Earth?",
+        "correct_option_id": 70
+    },
+    {
+        "id": 18,
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "correct_option_id": 74
+    },
+    {
+        "id": 19,
+        "question": "Which planet is closest to the sun?",
+        "correct_option_id": 78
+    },
+    {
+        "id": 20,
+        "question": "What is the square root of 64?",
+        "correct_option_id": 82
+    }
+]
